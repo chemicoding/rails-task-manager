@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+
+ .tasks {
+    font-family: open-sans;
+    font-size: large;
+   
+ }
+
+ ul {
+    list-style-type: none;
+    
+ }
+
+
+ .link {
+    font-family: open-sans;
+    font-size: large;
+    margin-left: 40px;
+ }
+
+ 
